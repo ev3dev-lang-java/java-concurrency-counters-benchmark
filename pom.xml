@@ -18,8 +18,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <javac.target>1.8</javac.target>
         <uberjar.name>benchmarks</uberjar.name>
-        <jmh.version>1.16</jmh.version>
-        <testng.version>6.9.10</testng.version>
+        <jmh.version>1.20</jmh.version>
+        <testng.version>6.14.2</testng.version>
     </properties>
 
     <build>
